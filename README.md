@@ -4,6 +4,12 @@
 <h3 align="center">Software Engineer @ UIDAI (Aadhaar) · Backend & Agentic AI · IIT Roorkee '25</h3>
 
 <p align="center">
+  <a href="https://github.com/SayantanBong007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+UIDAI+(Aadhaar);Java+%7C+Spring+Boot+%7C+Go+%7C+Kafka;Building+Agentic+AI+tools+for+developers;Open+to+SDE+%2F+Backend+%2F+AI+roles" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayantanbong007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -13,7 +19,7 @@
 
 ### 🚀 About me
 
-- 🏛️ Software Engineer at **UIDAI**, building the **Aadhaar Universal Client**: used by **100,000+ operators** at **49,000+ centres**
+- 🏛️ Software Engineer at **UIDAI**, building the **Aadhaar Universal Client**: used by **100,000+ operators** at **49,000+ centres**, with a peak of **700,000+ sessions a day**
 - ⚙️ Day to day: **Java Spring Boot** and **Go** microservices over **gRPC** and **Kafka**, with **MySQL** and **Redis** underneath
 - 🤖 Outside work: I build **AI tools for developers**: PR review bots, LLM gateways and code knowledge graphs
 - 🎓 B.Tech from **IIT Roorkee** (2025), in biotechnology. I learned software by building it
@@ -46,6 +52,19 @@
 | 🛡️ **[Token-Sentry](https://github.com/SayantanBong007/Token-Sentry)** | OpenAI-compatible LLM API gateway. Compresses context into vector memory, routes each request to the cheapest model that can handle it, and falls back across providers on rate limits | Python, FastAPI, Redis, ChromaDB, Next.js, Docker |
 | 🧠 **[Kitsune](https://github.com/SayantanBong007/-Kitsune)** | GraphRAG code knowledge engine. Hybrid semantic + graph search over source code, with a human-in-the-loop multi-agent debugging pipeline | Python, Neo4j, ChromaDB, Tree-sitter, Groq |
 | 📚 **GitSummarize** | Turns any GitHub repo into architecture docs, API docs, ERDs and Mermaid diagrams using a 9-agent LangGraph pipeline | Python, LangGraph, FastAPI, Docker |
+
+<p align="center">
+  <a href="https://github.com/SayantanBong007/ArchFox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=ArchFox&theme=tokyonight&hide_border=true" alt="ArchFox" />
+  </a>
+  <a href="https://github.com/SayantanBong007/Token-Sentry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=Token-Sentry&theme=tokyonight&hide_border=true" alt="Token-Sentry" />
+  </a>
+  <a href="https://github.com/SayantanBong007/-Kitsune">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=-Kitsune&theme=tokyonight&hide_border=true" alt="Kitsune" />
+  </a>
+</p>
+
 ---
 
 ## 🧰 Languages and Tools
@@ -125,4 +144,16 @@
   <img src="https://streak-stats.demolab.com/?user=sayantanbong007&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayantanBong007/SayantanBong007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayantanBong007/SayantanBong007/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SayantanBong007/SayantanBong007/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <p align="center"><i>⚡ Fun fact: I think I'm funny. The jury is still out.</i></p>
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:36bcf7&height=120&section=footer" />
