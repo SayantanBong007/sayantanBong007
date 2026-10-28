@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SayantanBong007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+UIDAI+(Aadhaar);Java+%7C+Spring+Boot+%7C+Go+%7C+Kafka;Building+Agentic+AI+tools+for+developers;Open+to+SDE+%2F+Backend+%2F+AI+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+UIDAI+(Aadhaar);Java+%7C+Spring+Boot+%7C+Go+%7C+Kafka;Building+Agentic+AI+tools+for+developers" alt="Typing SVG" />
   </a>
 </p>
 
