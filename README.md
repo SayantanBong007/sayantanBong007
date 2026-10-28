@@ -50,8 +50,8 @@
 |---|---|---|
 | 🦊 **[ArchFox](https://github.com/SayantanBong007/ArchFox)** | GitHub Action that reviews pull requests with full codebase context and posts inline comments. Tag `@archfox` on any comment to ask follow-up questions | Python, LangGraph, Tree-sitter, Qdrant, GitHub Actions |
 | 🛡️ **[Token-Sentry](https://github.com/SayantanBong007/Token-Sentry)** | OpenAI-compatible LLM API gateway. Compresses context into vector memory, routes each request to the cheapest model that can handle it, and falls back across providers on rate limits | Python, FastAPI, Redis, ChromaDB, Next.js, Docker |
-| 🧠 **[Kitsune](https://github.com/SayantanBong007/-Kitsune)** | GraphRAG code knowledge engine. Hybrid semantic + graph search over source code, with a human-in-the-loop multi-agent debugging pipeline | Python, Neo4j, ChromaDB, Tree-sitter, Groq |
-| 📚 **GitSummarize** | Turns any GitHub repo into architecture docs, API docs, ERDs and Mermaid diagrams using a 9-agent LangGraph pipeline | Python, LangGraph, FastAPI, Docker |
+| 🧠 **[Kitsune](https://github.com/SayantanBong007/Kitsune)** | GraphRAG code knowledge engine. Hybrid semantic + graph search over source code, with a human-in-the-loop multi-agent debugging pipeline | Python, Neo4j, ChromaDB, Tree-sitter, Groq |
+| 📚 **[GitSummarizer](https://github.com/SayantanBong007/GitSummarizer)** | Turns any GitHub repo into architecture docs, API docs, ERDs and Mermaid diagrams using a 9-agent LangGraph pipeline | Python, LangGraph, FastAPI, Docker |
 
 <p align="center">
   <a href="https://github.com/SayantanBong007/ArchFox">
@@ -60,8 +60,11 @@
   <a href="https://github.com/SayantanBong007/Token-Sentry">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=Token-Sentry&theme=tokyonight&hide_border=true" alt="Token-Sentry" />
   </a>
-  <a href="https://github.com/SayantanBong007/-Kitsune">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=-Kitsune&theme=tokyonight&hide_border=true" alt="Kitsune" />
+  <a href="https://github.com/SayantanBong007/Kitsune">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=Kitsune&theme=tokyonight&hide_border=true" alt="Kitsune" />
+  </a>
+  <a href="https://github.com/SayantanBong007/GitSummarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayantanBong007&repo=GitSummarizer&theme=tokyonight&hide_border=true" alt="GitSummarizer" />
   </a>
 </p>
 
